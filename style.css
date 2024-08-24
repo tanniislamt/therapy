@@ -1,0 +1,245 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: 0 auto;
+    max-width: 1440px;
+}
+
+.banner-bg{
+    background-image: url(image/samantha.png);
+   background-repeat: no-repeat;
+    background-size: cover;
+    height: 664px;
+    top: 133;
+}
+.banner-area{
+    padding: 5% 0 0    5%;
+}
+.banner-area h2{
+    background-color: white;
+    width: 359px;
+height: 83px;
+top: 236px;
+left: 112px;
+gap: 0px;
+opacity: 0px;
+gap: 0px;
+opacity: 0px;
+letter-spacing: 15px;
+padding: 20px;
+}
+
+
+.banner-area h5{
+        background-color: white;
+        width: 499px;
+        padding: 50px;
+}
+
+
+.banner-services{
+    background-image: url(image/pexels-ketut-subiyanto-4307657\ 1.png);
+    width: 1440px;
+    height: 664px;
+   margin-top: 40px;
+   background-size: cover;
+   padding: 90;
+}
+.services-area{
+    padding: 5% 0 0 5%;
+
+}
+
+.services-area h1{
+    background-color: white;
+    width: 359px;
+    height: 83px;
+    top: 236px;
+    left: 112px;
+    gap: 0px;
+    letter-spacing: 15px;
+    padding: 20px;
+    
+}
+.services-area p{
+    width: 1134px;
+    height: 93px;
+    top: 1692px;
+    left: 112px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+
+
+.banner-area-h1{
+    background-color: white;
+    width: 359px;
+    height: 83px;
+    top: 236px;
+    left: 112px;
+    gap: 0px;
+    letter-spacing: 15px;
+    padding: 20px;
+    }
+    .banner-about{
+        background-image: url(image/pexels-thành-trần-13863157\ 1.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 664px;
+        top: 133px;
+    }
+    .about-area{
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .about-area h2{
+        background-color: white;
+        width: 359px;
+        height: 83px;
+        top: 236px;
+        left: 112px;
+        gap: 0px;
+        letter-spacing: 15px;
+        padding: 20px;
+    }
+    .about-area p{
+        background-color: white;
+        width: 1134px;
+        height: 93px;
+        top: 1692px;
+        left: 112px;
+        gap: 0px;
+        opacity: opx;
+    }
+    .our-team{
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+
+.banner-social{
+    background-image: url(image/pexels-ketut-subiyanto-4307657\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 664px;
+    padding-top: 20px;
+    top: 133px;
+}
+.social-area{
+    padding-top: 20px;
+    color: aliceblue;
+}
+
+.about-area h1{
+    background-color: white;
+    width: 291px;
+    height: 83px;
+    top: 236px;
+    left: 112px;
+    gap: 0px;
+    letter-spacing: 15px;
+    padding: 20px;
+}
+
+.social-area p{
+    background-color: with;
+    width: 430px;
+    height: 64px;
+    top: 1692px;
+    left: 112px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.text-center{
+    margin-top: 60px;
+}
+.banner-bg-4{
+    background-image: url(image/Mask\ group.png);
+    width: 486px;
+    height: 375px;
+   margin-top: 40px;
+}
+.bg-aera{
+   text-align: midel-point;
+   top: 50px;
+   
+}
+
+
+.banner-services{
+    background-image: url(image/Rectangle\ 19.png);
+    width: 486px;
+    height: 375px;
+    left: 716px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+.services-area-2{
+    color: aliceblue;
+}
+
+.banner-bg-5{
+    background-image: url(image/Rectangle\ 20.png);
+    width: 486px;
+    height: 348px;
+    margin-top: 10px;
+    left: 191px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+
+.banner-bg-7{
+    background-image: url(image/Rectangle\ 21.png);
+    width: 486px;
+    height: 348px;
+    margin-top: 10px;
+    left: 716px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+.bg-t{
+    color: aliceblue;
+}
+
+@media screen and (max-width:912px) {
+    .background-image {
+        height: 400px;
+    }
+
+    .background-image-two{
+        height: 400px;
+
+    }
+
+    .background-image-three{
+        height: 400px;
+    }
+
+    .background-image-four{
+        height: 400px;
+    }
+}
+
+@media screen and (max-wigth:640px) {
+    .background-image{
+        height: 200px;
+    }
+    .background-image-two{
+        height: 200px;
+    }
+    .background-image-three{
+        height: 200px;
+    }
+    .background-image-four{
+        height: 20px;
+    }
+}
